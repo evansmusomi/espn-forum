@@ -14,7 +14,11 @@ Each feature manipulates or displays information related to Users.
 Each feature manipulates or displays information related to the forum.
 
 * _Create Post_ : `User can create a post`
+* _Update Post_ : `User can edit and update their post`
+* _Delete Post_ : `User can delete their post`
 * _Comment on a Post_ : `User can comment on created posts`
+* _Update comment on a Post_ : `User can update their comment on a post`
+* _Delete comment on a Post_ : `User can delete their comment on a post`
 * _View Posts_ : `User can view a list of created posts`
 * _View Comments_ : `User can view a list of comments related to a post`
 
