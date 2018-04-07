@@ -2,14 +2,14 @@
 
 The ESPN forum app lets you participate in trendy sports discussions your interested in
 
-## Intended User Related Features
+## User Related Features
 
 Each feature manipulates or displays information related to Users.
 
 * _Signup_ : `Person can signup`
 * _Signin_ : `User can signin`
 
-## Intended Forum Related Features
+## Forum Related Features
 
 Each feature manipulates or displays information related to the forum.
 
