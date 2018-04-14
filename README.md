@@ -29,7 +29,7 @@ Each feature manipulates or displays information related to the forum.
 
 ## Demo
 
-_Coming Soon_ 😉
+[![Watch the Demo Video](https://github.com/evansmusomi/espn-forum/blob/master/public/demo-video-preview.png)](https://www.useloom.com/share/b6b4d018e4d74b01ad86b485369b72e4)
 
 ## Credit(s)
 
